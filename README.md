@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on AutoZone BTSSC<br>🌱 I’m currently learning ReactJS<br>💬 Ask me any question you have in my social media<br>⚡ Fun fact i'm a student and i'm excited to work in front end. I also live in Mexico
+🚀 Currently working on AutoZone BTSSC. <br>
+🌱 Learning ReactJS to enhance front-end development skills. <br>
+💬 Open to any questions on my social media channels. <br>
+⚡ Fun fact: A dedicated student excited about crafting engaging user interfaces. <br>
+🌎 Proudly based in Mexico, infusing coding adventures with vibrant culture. <br>
 
 
 ## 🌐 Socials:
