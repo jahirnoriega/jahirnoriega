@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AutoZone BTSSC<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about anything in my social media<br>⚡ Fun fact i'm a student and i like to worj on the Front-End Design
+🔭 I’m currently working on AutoZone BTSSC<br>🌱 I’m currently learning ReactJS<br>💬 Ask me any question you have in my social media<br>⚡ Fun fact i'm a student and i'm excited to work in front end. I also live in Mexico
 
 
 ## 🌐 Socials:
